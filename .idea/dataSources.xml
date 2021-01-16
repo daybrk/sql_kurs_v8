@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="kursovaya8B@DESKTOP-O8NA0U3" uuid="be3c61ca-1555-4759-8b75-8d87c23a76e3">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://DESKTOP-O8NA0U3\SQLEXPRESS01;database=kursovaya8B</jdbc-url>
+    </data-source>
+  </component>
+</project>
